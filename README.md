@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Coley Dohmen
 
 <!--
 **ColeyDohmen/coleydohmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
