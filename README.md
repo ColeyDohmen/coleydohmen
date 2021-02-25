@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Coley Dohmen. I am currently a student at Boise Codeworks.
+My name is Coley Dohmen. I am currently a student at Boise Codeworks. I was recently introduced into the world of coding and very quickly fell in love with it.
 - 🌱 I’m currently learning -  HTML, CSS, JavaScript, Bootstrap, MVC Patterns
 
 - 📫 How to reach me: Email: coley.dawn12@gmail.com
