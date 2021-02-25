@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Coley Dohmen
+### Hi there 👋
+
+My name is Coley Dohmen. I am currently a student at Boise Codeworks.
 
 <!--
 **ColeyDohmen/coleydohmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
