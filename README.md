@@ -4,7 +4,7 @@ My name is Coley Dohmen. I am currently a student at Codeworks out of Boise, ID.
 
 - 🌱 I’m currently learning -  HTML, CSS, JavaScript, Bootstrap, MongoDB, Vue 3, MVC Patterns, APIs
 
-- 📫 How to reach me: Email: coley.dawn12@gmail.com
+- 📫 How to reach me: Email: coley.dawn12@gmail.com, LinkedIn: https://www.linkedin.com/in/coley-dohmen/
 
 - ⚡ Fun fact: My favorite number is 8. I have lived in six states, one of them being Hawaii. My favorite color is blue, obviously because it's the best color out there. 
 <!--
