@@ -1,0 +1,8 @@
+Thanks for taking the time to interview me today, I am excited to be here! 
+I am a full-stack software developer and I recently graduated from a software development bootcamp. I learned many languages through the bootcamp,
+Vue, C#, Javascript, & Node.js just to name a few. I learned how to build full-stack applications and how to utilize SCRUM.
+Before that, I was a school/sports photographer for the best voted photography studio in NorCal, I was a teacher's assistant for a 
+kindergarten class, and I was a truck broker for nursery stock all around the country! 
+While I loved all of my previous jobs, none of them quite clicked with me the way software development does.
+I'm very logically and mathematically driven and coding is very in line with me in that aspect. I absolutely love the challenges I face
+on a daily basis, it's something super exciting for me and I am looking forward to seeing where the developing world takes me.
