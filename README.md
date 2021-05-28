@@ -7,6 +7,8 @@ My name is Coley Dohmen. I am currently a student at Codeworks out of Boise, ID.
 - 📫 How to reach me: Email: coley.dawn12@gmail.com, LinkedIn: https://www.linkedin.com/in/coley-dohmen/
 
 - ⚡ Fun fact: My favorite number is 8. I have lived in six states, one of them being Hawaii. My favorite color is blue, obviously because it's the best color out there. 
+
+- https://coleydohmen.github.io/
 <!--
 **ColeyDohmen/coleydohmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
