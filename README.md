@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Coley Dohmen. I am currently a student at Codeworks out of Boise, ID. I was recently introduced into the world of coding and very quickly fell in love with it, you really can't beat that rush you get when you are stuck on a coding issue and you finally figure it out and everything runs smoothly again! When I'm not working on code, I can be found spending time with my family or gaming with friends. I love to laugh and am great with communicating with those around me. I am looking forward to the future and seeing where my love for coding takes me.
+My name is Coley Dohmen. I am a recent graduate from CodeWorks, a software development bootcamp, out of Boise, ID. I was recently introduced into the world of coding and very quickly fell in love with it, you really can't beat that rush you get when you are stuck on a coding issue and you finally figure it out and everything runs smoothly again! When I'm not working on code, I can be found spending time with my family or gaming with friends. I love to laugh and am great with communicating with those around me. I am looking forward to the future and seeing where my love for coding takes me.
 
-- 🌱 I’m currently learning -  HTML, CSS, JavaScript, Bootstrap, MongoDB, Vue 3, MVC Patterns, APIs, C#
+- 🌱 I’m currently learning -  HTML, CSS, JavaScript, Bootstrap, MongoDB, Vue 3, MVC Patterns, APIs, C#, Node.js
 
 - 📫 How to reach me: Email: coley.dawn12@gmail.com, LinkedIn: https://www.linkedin.com/in/coley-dohmen/
 
